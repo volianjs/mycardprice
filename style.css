@@ -38,6 +38,11 @@ body {
     font-size: 20px;
     color: #FFFFFF;
     padding: 9px 20px 7px;
+    margin-left: 5px;
+}
+
+.new{
+    background: #222222;
 }
 
 .card-image img {
